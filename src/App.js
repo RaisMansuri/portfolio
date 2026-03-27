@@ -153,9 +153,9 @@ function App() {
               </p>
             </div>
             <div className="hero-stack">
-              <span>React</span>
               <span>Angular</span>
-              <span>Node.js</span>
+              <span>Reactjs</span>
+              <span>Nodejs</span>
               <span>Supabase</span>
               <span>SQL</span>
               <span>AI Workflows</span>
